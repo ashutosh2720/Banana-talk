@@ -1,0 +1,63 @@
+body{
+    background-image: url(https://media.istockphoto.com/photos/little-boy-and-banana-picture-id138137558?b=1&k=20&m=138137558&s=170667a&w=0&h=LWck23mYkErxFDpPr42rCFywHiszXn7NZA_-8mDlGjA=);
+}
+
+
+
+textarea {
+    width:40vw;
+    height: 300px;
+    display: block;
+    margin-left: 12rem;
+    padding: 1rem;
+    
+}
+
+.output-language {
+    border: 1px solid black;
+    height: 10vh;
+    width: 30%;
+    background-color: white;
+    padding: 1rem;
+    margin-left: 15rem;
+    border: 2px solid black;
+    color: black;
+}
+h1{
+    text-align: center;
+    color:white;
+    background-color: blue;
+    height: 100px;
+   
+    border-radius: 1%;
+}
+.btn
+{
+  margin-left: 20rem;
+  margin-top: 20px;
+  background-color: blue;
+
+
+ 
+  color: white;
+  font-size: large;
+}
+.arrow{
+    
+    margin-left: 25rem;
+}
+
+
+footer {
+    height: 10vh;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    gap: 10px;
+    align-items: center;
+    flex-direction: column;
+    font-size:20px;
+    font-weight: 70px;
+    background-color: blue;
+  
+  }
